@@ -1,7 +1,7 @@
 # Cancer Treatment Analysis
 ![Metastatic site changes](https://github.com/remco-mooij/matplotlib-challenge/blob/master/Pymaceuticals/Images/Metastatic_Site_Changes.png)
 
-In this analysis a dataset from a recent animal study on the effectivenss of certain treatments to squamous cell carcinoma (SCC) was analyzed. In this study, 250 mice were treated with various treatmens, and physioloigcal responses were monitored in a 45-day period. Here, the effectiveness of four of these treatments - Capomulin, Infubinol, Ketapril, and Placebo - are compared.
+In this analysis a dataset from a recent animal study on the effectiveness of certain treatments to squamous cell carcinoma (SCC) was visualized. In this animal study, 250 mice were treated with various treatmens, and physioloigcal responses were monitored in a 45-day period. Here, the effectiveness of four of these treatments - Capomulin, Infubinol, Ketapril, and Placebo - are compared.
 
 Using Pandas and Matplotlib, 4 different scatter plots were created, each one comparing the 4 different treatments:
 - Tumor volume changes over time
